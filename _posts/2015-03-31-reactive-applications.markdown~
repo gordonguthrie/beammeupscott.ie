@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "First Meetup - Reactive Applications - Tools Of The Trade"
+date:   2015-03-22 10:41:06
+categories: meetups update
+---
+
+Announcing our first meetup on the 22nd April at 6:30pm
+
+Location Skyscanner Offices
+
+Title
+Reactive Applications - Tools of the Trade
+
+Abstract
+In the past year, Reactive has become one of the hottest terms in the software development community. But what does it mean, and how can developers leverage the core concepts to create applications that meet the standard of being Reactive? This talk will answer those questions, as well as provide insight about various tools and platforms that can be used to build such applications, including Reactive Extensions, Erlang, Node.js, Vert.x, Play Framework, Akka and more.
+
+Bio
+Jamie Allen is the Senior Director of Global Servies for Typesafe, the company behind the Scala programming language, Akka concurrency toolkit and Play web framework.  Jamie has been coding in Scala and actor-based systems since 2009, and is the author of “Effective Akka” book from O’Reilly as well as the coauthor of the upcoming "Reactive Design Patterns" book from Manning.
+
+http://shop.oreilly.com/product/0636920028789.do
+http://manning.com/kuhn/

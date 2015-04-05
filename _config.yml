@@ -1,0 +1,13 @@
+# Site settings
+title: Beam Me Up Scott.ie
+email: gordon@hypernumbers.com
+description: > # this means to ignore newlines until "baseurl:"
+  Beam Me Up Scott.ie is the Scottish meetup for distributed systems
+  and large scale computing with a bias towards the Beam platform:
+  Erlang, Elixir and LFE
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://beammeupscott.ie" # the base hostname & protocol for your site
+twitter_username: beamusupyabas
+
+# Build settings
+markdown: kramdown
