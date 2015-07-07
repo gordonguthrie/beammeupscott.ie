@@ -9,7 +9,7 @@ categories: meetups update
 
 ![Idris Logo](/img/idris_logo.png)
 
-Abstract
+##Abstract
 
 Concurrent programming is notoriously difficult, due to needing to reason not only about the sequential progress of any algorithms, but also about how information moves between concurrent agents. What if programmers were able to reason about their concurrent programs and statically verify both sequential and concurrent guarantees about those programs’ behaviour? That would likely reduce the number of bugs and defects in concurrent systems.
 
