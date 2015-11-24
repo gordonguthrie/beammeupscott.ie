@@ -5,7 +5,7 @@ date: 2015-07-07
 categories: meetups update
 ---
 
-[EdLambda](http://www.edlambda.co.uk) have organised a special event on Idris-on-the-BEAM by Sam Elliot.
+[EdLambda](http://www.edlambda.co.uk) have organised a special event on Idris-on-the-BEAM by Sam Elliott.
 
 ![Idris Logo](/img/idris_logo.png)
 
